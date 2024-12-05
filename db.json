@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "role": "Team Leader",
+    "description": "John is an experienced leader with a passion for driving teams towards success. He has 10 years of experience in managing high-performance teams.",
+    "image": "team-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "role": "Developer",
+    "description": "Jane is a skilled software developer with a focus on front-end technologies. She loves building intuitive user interfaces.",
+    "image": "team-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mark Johnson",
+    "role": "Designer",
+    "description": "Mark is a creative designer, specializing in UX/UI design. He enjoys crafting designs that are both beautiful and functional.",
+    "image": "team-3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Emily White",
+    "role": "Tester",
+    "description": "Emily is a dedicated tester who ensures the quality of the products. She is meticulous and detail-oriented, catching bugs before they reach users.",
+    "image": "team-4.jpg"
+  }
+]
